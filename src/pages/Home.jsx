@@ -30,7 +30,7 @@ const Home = () => {
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
-                Make It <br className="xl:block hidden" /> U'rself
+                Hi <br className="xl:block hidden" /> 
               </h1>
             </motion.div>
             <motion.div
